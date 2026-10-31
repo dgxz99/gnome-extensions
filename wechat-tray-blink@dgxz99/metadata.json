@@ -1,0 +1,7 @@
+{
+    "uuid": "wechat-tray-blink@dgxz99",
+    "name": "WeChat Tray Blink",
+    "author": "dgxz99",
+    "description": "Blink the AppIndicator WeChat tray icon when WeChat sends a desktop notification.",
+    "shell-version": ["51"]
+}
